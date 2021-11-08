@@ -14,7 +14,7 @@ color:#000;
 
 }
 button {
-  background-color: #2D46B9;
+  background-color: #3c91e6;
   border: none;
   color: white;
   padding: 10px 24px;
@@ -23,24 +23,28 @@ button {
   display: inline-block;
   font-size: 16px;
   border-radius: 40px;
+  cursor:pointer;
 }
 
 .topnav {
-  background-color: #28AFB0;
+  background-color: #000300;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
 }
 h1 {
-    color : #F44336;
-    margin:0;
+    color : #f24236;
+    margin:0px;
     padding:0;
     text-align:center;
-    font-family: 'Comfortaa'
-    font-size:40px;
+    font-family: 'Comfortaa';
+    font-size: 40px;
+    
   
 }
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #ffcad4;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -53,4 +57,7 @@ border-color:#F44336;
 padding: 1em;
 font-family: 'Roboto', sans-serif;
 
+}
+body {
+  margin:0;
 }
