@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 body {
 background-color: #383A59;
-color: #E0E6F2;
 }
 p {
 margin:0;
@@ -52,7 +51,7 @@ h1 {
 }
 .text {
   border:3px; 
-  color: white;
+  color: #E0E6F2;
 border-style:solid; 
 border-color:#F44336; 
 padding: 1em;
