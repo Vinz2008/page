@@ -40,13 +40,18 @@ h1 {
     
   
 }
+
+.topnav img {
+  width: 32px;
+  height: 32px;
+}
 .topnav a {
   float: left;
   color: #BD93F9;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
 }
 .text {
 color: #E0E6F2;
